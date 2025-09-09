@@ -1,0 +1,16 @@
+# API Key y variables de entorno
+.env
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Cache de Python
+__pycache__/
+*.py[cod]
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Configs locales (si usás VSCode)
+.vscode/
